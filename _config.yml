@@ -1,0 +1,14 @@
+layout_spectrum: 0.20099171600304544
+typography_spectrum: 0.8859292042907327
+color:
+  brandStrength: 0.28832185873761773
+  lightness: 0.5599244642071426
+  saturation: 0.4597191207576543
+  rhythmicContrast: 0.8478915721643716
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: MJD
